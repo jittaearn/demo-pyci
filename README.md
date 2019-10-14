@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/jittaearn/demo-pyci.svg?branch=master)](https://travis-ci.com/jittaearn/demo-pyci)
 Continuous Integration Demo
 ============================
 
